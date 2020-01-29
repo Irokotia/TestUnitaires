@@ -12,5 +12,5 @@ final class AdherentTest extends TestCase
             Adherant::class,
             new Adherant("Dumortier", "Tristan", new DateTime())
         );
-    }
+    } 
 }
