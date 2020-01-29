@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-final class Adherent
+final class Adherant
 {
     private $nom;
     private $prenom;

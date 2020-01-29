@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
 
-final class AdherentTest extends TestCase
+final class AdherantTest extends TestCase
 {
     public function testShouldCreateAnInstanceOfUser(): void
     {
